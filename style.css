@@ -11,7 +11,7 @@
     margin: 24px 0;
 }
 .cabecalho-imagem{
-    width: 25%;
+    width: 20%;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -21,7 +21,7 @@
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(rgb(65, 0, 0),#ac3737);
+    background-image: linear-gradient(rgb(65, 0, 0),#ce5757);
     color: antiquewhite;
     display: flex;
     justify-content: center;
