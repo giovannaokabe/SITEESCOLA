@@ -1,7 +1,9 @@
 *{
     margin: 0%;
     padding: 0%;
+    font-size: 60px;
 }
+
 .cabecalho{
     background-color:rgb(65, 0, 0);
     color: rgb(255, 255, 255);
@@ -41,7 +43,7 @@
     width: 26px 0;
 }
 .estudante-icone{
-    width: 24px;
+    width: 28px;
     padding: 4px 8px;
 }
 .estudante-div{
